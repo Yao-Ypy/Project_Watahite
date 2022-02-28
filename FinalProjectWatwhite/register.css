@@ -1,0 +1,88 @@
+#warpper {
+    background: #51C2D5;
+    width: auto;
+    height: 736px;
+}
+
+.text {
+    font-family: 'Mitr', sans-serif;
+    color: #fff;
+    font-size: 24px;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+
+.text1 {
+    font-family: 'Mitr', sans-serif;
+    font-size: 18px;
+    color: #fff;
+    margin-left: 20px;
+}
+
+.bg-down {
+    background: #1F3C88;
+    width: auto;
+    height: 605px;
+    margin-top: 40px;
+    border-radius: 50px 50px 0 0;
+}
+
+.username {
+    width: 370px;
+    height: 45px;
+    font-family: 'Mitr', sans-serif;
+    font-size: 12px;
+    border-radius: 30px;
+    padding-left: 20px;
+    background-color: #51C2D5;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.email {
+    width: 370px;
+    height: 45px;
+    font-family: 'Mitr', sans-serif;
+    font-size: 12px;
+    border-radius: 30px;
+    padding-left: 20px;
+    background-color: #51C2D5;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.password {
+    width: 370px;
+    height: 45px;
+    font-family: 'Mitr', sans-serif;
+    font-size: 12px;
+    border-radius: 30px 30px 30px 30px;
+    padding-left: 20px;
+    background-color: #51C2D5;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.password1 {
+    width: 370px;
+    height: 45px;
+    font-family: 'Mitr', sans-serif;
+    font-size: 12px;
+    border-radius: 30px 30px 30px 30px;
+    padding-left: 20px;
+    background-color: #51C2D5;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.next {
+    width: 370px;
+    height: 45px;
+    border-radius: 30px;
+    font-family: 'Mitr', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    background: #070D59;
+    margin-left: 20px;
+    margin-top: 30px;
+}
